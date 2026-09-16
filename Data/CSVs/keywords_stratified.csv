@@ -1,0 +1,109 @@
+keyword,category,is_age_proxy,is_control,is_movie,is_viral,is_platform_event,platform_driven,has_persistence_reason
+Avengers Endgame,movie,0,0,1,0,0,0,1
+Avengers Infinity War,movie,0,0,1,0,0,0,1
+Barbie film,movie,0,0,1,0,0,0,1
+Deadpool and Wolverine,movie,0,0,1,0,0,0,1
+Encanto,movie,0,0,1,0,0,0,1
+Jurassic World,movie,0,0,1,0,0,0,1
+Oppenheimer film,movie,0,0,1,0,0,0,1
+Sonic the Hedgehog movie,movie,0,0,1,0,0,0,1
+Spider-Man No Way Home,movie,0,0,1,0,0,0,1
+Star Wars The Force Awakens,movie,0,0,1,0,0,0,1
+Top Gun Maverick,movie,0,0,1,0,0,0,1
+Wicked movie,movie,0,0,1,0,0,0,1
+Frozen movie,movie,0,0,1,0,0,0,1
+Black Panther movie,movie,0,0,1,0,0,0,1
+Wonder Woman movie,movie,0,0,1,0,0,0,1
+Deadpool movie 2016,movie,0,0,1,0,0,0,1
+Get Out movie,movie,0,0,1,0,0,0,1
+Bohemian Rhapsody movie,movie,0,0,1,0,0,0,1
+Tenet movie,movie,0,0,1,0,0,0,1
+Soul movie,movie,0,0,1,0,0,0,1
+No Time to Die movie,movie,0,0,1,0,0,0,1
+The Batman movie,movie,0,0,1,0,0,0,1
+Everything Everywhere All at Once,movie,0,0,1,0,0,0,1
+Minions Rise of Gru,movie,0,0,1,0,0,0,1
+Dune Part Two,movie,0,0,1,0,0,0,1
+Inside Out 2,movie,0,0,1,0,0,0,1
+Godzilla Minus One,movie,0,0,1,0,0,0,1
+Poor Things movie,movie,0,0,1,0,0,0,1
+A Minecraft Movie,movie,0,0,1,0,0,0,1
+Sinners movie 2025,movie,0,0,1,0,0,0,1
+Bored in the House,viral,0,0,0,1,0,1,1
+Corn Kid,viral,0,0,0,1,0,1,1
+Demure,viral,0,0,0,1,0,1,1
+Ghibli style AI images,viral,0,0,0,1,0,1,1
+Gummy Bear Challenge,viral,0,0,0,1,0,1,1
+Kiki Challenge In My Feelings,viral,0,0,0,1,0,1,1
+Mannequin Challenge,viral,0,0,0,1,0,1,1
+Renegade dance,viral,0,0,0,1,0,1,1
+Tide Pod Challenge,viral,0,0,0,1,0,1,1
+Wipe It Down Challenge,viral,0,0,0,1,0,1,1
+Harlem Shake,viral,0,0,0,1,0,1,1
+Running Man Challenge,viral,0,0,0,1,0,1,1
+Flip the Switch Challenge,viral,0,0,0,1,0,1,1
+Savage Love dance challenge,viral,0,0,0,1,0,1,1
+Blinding Lights dance challenge,viral,0,0,0,1,0,1,1
+Chair Challenge,viral,0,0,0,1,0,1,1
+Dalgona whipped coffee trend,viral,0,0,0,1,0,1,1
+Roman Empire trend,viral,0,0,0,1,0,1,1
+Mob wife aesthetic trend,viral,0,0,0,1,0,1,1
+Baltimore bridge collapse,control,0,1,0,0,0,0,0
+Beirut port explosion,control,0,1,0,0,0,0,0
+CRISPR babies,control,0,1,0,0,0,0,0
+Hurricane Harvey,control,0,1,0,0,0,0,0
+James Webb Space Telescope first images,control,0,1,0,0,0,0,0
+LIGO gravitational waves,control,0,1,0,0,0,0,0
+LK-99 superconductor,control,0,1,0,0,0,0,0
+La Palma volcano eruption,control,0,1,0,0,0,0,0
+New Horizons Pluto flyby,control,0,1,0,0,0,0,0
+Perseverance Mars rover landing,control,0,1,0,0,0,0,0
+SpaceX Crew Dragon,control,0,1,0,0,0,0,0
+SpaceX Falcon Heavy first launch,control,0,1,0,0,0,0,0
+Stephen Hawking death,control,0,1,0,0,0,0,0
+Suez Canal ship blockage,control,0,1,0,0,0,0,0
+Tonga volcano eruption,control,0,1,0,0,0,0,0
+Total solar eclipse 2017,control,0,1,0,0,0,0,0
+Total solar eclipse 2024,control,0,1,0,0,0,0,0
+Turkey Syria earthquake,control,0,1,0,0,0,0,0
+Zika virus outbreak,control,0,1,0,0,0,0,0
+Nepal earthquake 2015,control,0,1,0,0,0,0,0
+Panama Papers leak,control,0,1,0,0,0,0,0
+Hurricane Maria,control,0,1,0,0,0,0,0
+Camp Fire California wildfire,control,0,1,0,0,0,0,0
+Notre Dame fire,control,0,1,0,0,0,0,0
+Australian bushfires 2020,control,0,1,0,0,0,0,0
+Haiti earthquake 2021,control,0,1,0,0,0,0,0
+Champlain Towers South collapse,control,0,1,0,0,0,0,0
+Maui Lahaina wildfires,control,0,1,0,0,0,0,0
+Grindavik Iceland volcano eruption,control,0,1,0,0,0,0,0
+Japan Noto Peninsula earthquake,control,0,1,0,0,0,0,0
+Morocco earthquake 2023,control,0,1,0,0,0,0,0
+India heat wave 2024,control,0,1,0,0,0,0,0
+Chile wildfires 2024,control,0,1,0,0,0,0,0
+Balenciaga ad controversy,platform_event,0,0,0,0,1,1,0
+Chewbacca Mom,platform_event,0,0,0,0,1,1,0
+Damn Daniel,platform_event,0,0,0,0,1,1,0
+Gorilla Glue Girl,platform_event,0,0,0,0,1,1,0
+Willy's Chocolate Experience,platform_event,0,0,0,0,1,1,0
+Alex from Target,platform_event,0,0,0,0,1,1,0
+Distracted Boyfriend meme,platform_event,0,0,0,0,1,1,0
+Left Shark Super Bowl,platform_event,0,0,0,0,1,1,0
+Storm Area 51,platform_event,0,0,0,0,1,1,0
+Harambe meme,platform_event,0,0,0,0,1,1,0
+Bernie Sanders mittens meme,platform_event,0,0,0,0,1,1,0
+Will Smith Oscars slap,platform_event,0,0,0,0,1,1,0
+Try Guys Ned Fulmer scandal,platform_event,0,0,0,0,1,1,0
+Bean Dad Twitter thread,platform_event,0,0,0,0,1,1,0
+Grimace Shake trend,platform_event,0,0,0,0,1,1,0
+Sydney Sweeney American Eagle ad controversy,platform_event,0,0,0,0,1,1,0
+Coldplay kiss cam CEO scandal,platform_event,0,0,0,0,1,1,0
+Astroworld crowd crush,control,0,1,0,0,0,0,0
+Libya Derna flood,control,0,1,0,0,0,0,0
+OceanGate Titan,control,0,1,0,0,0,0,0
+SpaceX Starship,control,0,1,0,0,0,0,0
+Thai cave rescue,control,0,1,0,0,0,0,0
+Whip Nae Nae,viral,0,0,0,1,0,1,1
+De-influencing,viral,0,0,0,1,0,1,1
+Hot girl walk,viral,0,0,0,1,0,1,1
+COVID-19 vaccine,control,0,1,0,0,0,0,0
