@@ -6,4 +6,5 @@ patsy==1.0.3
 pytrends==4.9.2
 requests==2.34.2
 lifelines==0.30.0
+autograd==1.9.1
 matplotlib==3.10.6
